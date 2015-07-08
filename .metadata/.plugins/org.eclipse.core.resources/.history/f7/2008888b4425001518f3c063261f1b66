@@ -1,0 +1,55 @@
+package eje_resueltos;
+
+import java.util.Scanner;
+
+public class eje0_ecuacion_cuadratica {
+	
+	public static void main(String[] args) {
+		//Declaración de los coeficientes, del discriminante y de las raíces:
+		
+		double a, b,c; //Coeficientes de la ecuación (a != 0)
+		double d; //Discriminante de la cuadratica d = b * b - 4 * a * c
+		double x, x1, x2; //Raíces de la ecuación
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.print("Digite el valor del coeficiente a (a diferente de cero): ");
+		a = scanner.nextDouble();
+		
+		System.out.println("Digite el valor del coeficiente b: ");
+		b = scanner.nextDouble();
+		
+		System.out.println("Digite el valor del coeficiente c: ");
+		c = scanner.nextDouble();
+		
+		//Calcular el discriminante 
+		d = b*b -4* a*c;
+		
+		if( d==0){
+			x = -b/(2*a);
+			System.out.println("Dos raices iguales: X = " + x);
+		}else if(d > 0){
+			x1 = (-b + Math.sqrt(d)) / (2*a);
+			x2 = (+b + Math.sqrt(d)) / (2*a);
+			
+			System.out.println("Raices reales diferentes: ");
+			System.out.println(" X1 = " + x1);
+			System.out.println(" X2 = " + x2);
+			
+		}else{
+			System.out.println("La ecuacion NO tiene raices reales");
+		}
+		
+		
+	}
+
+}
+
+
+
+
+
+
+
+
+

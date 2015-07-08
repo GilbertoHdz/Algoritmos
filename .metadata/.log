@@ -240,3 +240,69 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.jdt.core 2 0 2015-07-08 01:47:01.183
 !MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:27:21.831
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:27:22.477
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:27:31.743
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:27:36.162
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:29:42.094
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:29:57.003
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:29:57.740
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:32:20.647
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:32:54.667
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:32:55.779
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:32:57.882
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:33:42.719
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:33:43.890
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:33:46.887
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:36:05.193
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:38:03.243
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:38:17.644
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:38:33.298
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:39:00.697
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:39:23.464
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:39:24.067
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-08 02:40:52.708
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_45/lib/ext/jfxrt.jar|com/sun/javafx/css/Selector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
