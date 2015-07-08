@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;eje_resueltos.Test_eje1_rectangulo&apos; to &apos;Eje1_rectangulo&apos;&#x0D;&#x0A;- Original project: &apos;Algoritmos&apos;&#x0D;&#x0A;- Original element: &apos;eje_resueltos.Test_eje1_rectangulo&apos;&#x0D;&#x0A;- Renamed element: &apos;eje_resueltos.Eje1_rectangulo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Test_eje1_rectangulo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;eje_resueltos{Test_eje1_rectangulo.java[Test_eje1_rectangulo" matchStrategy="1" name="Eje1_rectangulo" qualified="false" references="true" similarDeclarations="false" stamp="1436334145450" textual="false" version="1.0"/>
+</session>

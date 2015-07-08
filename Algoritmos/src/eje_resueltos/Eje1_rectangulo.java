@@ -1,0 +1,28 @@
+package eje_resueltos;
+
+import java.util.Scanner;
+
+public class Eje1_rectangulo {
+	
+	public static void main(String[] args) {
+		
+		@SuppressWarnings("resource")
+		Scanner scanner = new Scanner(System.in);
+		
+		double area, perimetro;
+		
+		System.out.print( "Digite el valor de la base [cm]: ");
+		double base = scanner.nextDouble();
+		
+		System.out.print( "Digite el valor de la altura [cm]: ");
+		double altura = scanner.nextDouble();
+		
+		area = base * altura;
+		perimetro = 2 * (base + altura);
+		
+		System.out.println(" ");
+		System.out.println("Area del rectangulo: " + area + " cm2");
+		System.out.println("Perimetro del rectangulo: " + perimetro + " cm");
+		
+	}
+}
